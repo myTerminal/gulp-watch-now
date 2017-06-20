@@ -1,0 +1,1 @@
+module.exports={watch:function(t,o,c){c.forEach(function(o){t.start(o)}),console.log("Starting gulp-watch..."),t.watch(o,c)}};

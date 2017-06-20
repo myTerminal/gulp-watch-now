@@ -1,0 +1,29 @@
+{
+  "name": "gulp-watch-now",
+  "version": "0.9.0",
+  "description": "A wrapper over gulp-watch with added features",
+  "main": "dist/index.js",
+  "scripts": {
+    "install-globals": "npm install -g gulp-cli",
+    "develop": "gulp develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myTerminal/gulp-watch-now.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myTerminal/gulp-watch-now/issues"
+  },
+  "homepage": "https://github.com/myTerminal/gulp-watch-now#readme",
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "license": "GPL-3.0",
+  "preferGlobal": "true",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
