@@ -1,6 +1,6 @@
 {
   "name": "gulp-watch-now",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A wrapper over gulp-watch with added features",
   "main": "dist/index.js",
   "scripts": {
@@ -20,7 +20,6 @@
   ],
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
   "license": "GPL-3.0",
-  "preferGlobal": "true",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-uglify": "^3.0.0",
