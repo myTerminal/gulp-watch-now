@@ -1,7 +1,6 @@
 /* global require */
 
 var gulp = require('gulp'),
-    watch = require ('gulp-watch'),
     uglify = require('gulp-uglify'),
     gulpWatchNow = require('./src/index.js');
 
