@@ -11,8 +11,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/gulp-watch-now.svg)](https://david-dm.org/myTerminal/gulp-watch-now)
 [![devDependency Status](https://david-dm.org/myTerminal/gulp-watch-now/dev-status.svg)](https://david-dm.org/myTerminal/gulp-watch-now#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/gulp-watch-now/peer-status.svg)](https://david-dm.org/myTerminal/gulp-watch-now#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
-[![Gratipay](http://img.shields.io/gratipay/myTerminal.svg)](https://gratipay.com/myTerminal)  
+[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)  
 [![NPM](https://nodei.co/npm/gulp-watch-now.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-watch-now/)
 
 A wrapper around *gulp-watch* with added features
