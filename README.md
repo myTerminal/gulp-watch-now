@@ -4,7 +4,6 @@
 [![npm downloads](https://img.shields.io/npm/dt/gulp-watch-now.svg)](https://www.npmjs.com/package/gulp-watch-now)  
 [![Build Status](https://travis-ci.org/myTerminal/gulp-watch-now.svg?branch=master)](https://travis-ci.org/myTerminal/gulp-watch-now)
 [![Code Climate](https://codeclimate.com/github/myTerminal/gulp-watch-now.png)](https://codeclimate.com/github/myTerminal/gulp-watch-now)
-[![Package Quality](http://npm.packagequality.com/shield/gulp-watch-now.svg)](http://packagequality.com/#?package=gulp-watch-now)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/gulp-watch-now.svg)](https://coveralls.io/r/myTerminal/gulp-watch-now?branch=master)
 [![bitHound Overall Score](https://www.bithound.io/github/myTerminal/gulp-watch-now/badges/score.svg)](https://www.bithound.io/github/myTerminal/gulp-watch-now)
 [![bitHound Code](https://www.bithound.io/github/myTerminal/gulp-watch-now/badges/code.svg)](https://www.bithound.io/github/myTerminal/gulp-watch-now)  
