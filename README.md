@@ -13,6 +13,8 @@
 
 A wrapper around *gulp-watch* with added features
 
+> Note: Not compatible with Gulp 4!
+
 ## Installation
 
 *gulp-watch-now* is available on *Npm*. You can add it to your Node.js project with a simple command.
