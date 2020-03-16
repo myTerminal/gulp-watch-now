@@ -1,1 +1,0 @@
-"use strict";module.exports.watch=function(c,t,o){o.forEach(function(t){c.start(t)}),console.log("Starting gulp-watch..."),c.watch(t,o)};
