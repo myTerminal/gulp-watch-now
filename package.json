@@ -3,6 +3,9 @@
   "version": "0.9.3",
   "description": "A wrapper over gulp-watch with added features",
   "main": "build/index.js",
+  "files": [
+    "/build"
+  ],
   "scripts": {
     "gulp": "gulp"
   },
