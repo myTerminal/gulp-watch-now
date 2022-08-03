@@ -1,15 +1,12 @@
 # gulp-watch-now
 
 [![npm version](https://badge.fury.io/js/gulp-watch-now.svg)](https://badge.fury.io/js/gulp-watch-now)
-[![npm downloads](https://img.shields.io/npm/dt/gulp-watch-now.svg)](https://www.npmjs.com/package/gulp-watch-now)  
+[![npm downloads](https://img.shields.io/npm/dt/gulp-watch-now.svg)](https://www.npmjs.com/package/gulp-watch-now)
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://travis-ci.org/myTerminal/gulp-watch-now.svg?branch=master)](https://travis-ci.org/myTerminal/gulp-watch-now)
 [![Code Climate](https://codeclimate.com/github/myTerminal/gulp-watch-now.png)](https://codeclimate.com/github/myTerminal/gulp-watch-now)
 [![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/gulp-watch-now.svg)](https://coveralls.io/r/myTerminal/gulp-watch-now?branch=master)  
-[![Dependency Status](https://david-dm.org/myTerminal/gulp-watch-now.svg)](https://david-dm.org/myTerminal/gulp-watch-now)
-[![devDependency Status](https://david-dm.org/myTerminal/gulp-watch-now/dev-status.svg)](https://david-dm.org/myTerminal/gulp-watch-now#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/gulp-watch-now/peer-status.svg)](https://david-dm.org/myTerminal/gulp-watch-now#info=peerDependencies)  
-[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/gulp-watch-now.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-watch-now/)
 
 A wrapper around *gulp-watch* with added features
