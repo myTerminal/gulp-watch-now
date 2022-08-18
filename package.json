@@ -1,6 +1,6 @@
 {
   "name": "gulp-watch-now",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "A wrapper over gulp-watch with added features",
   "main": "build/index.js",
   "files": [
